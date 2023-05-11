@@ -1,2 +1,1 @@
-# woomy
-cheese
+license in LICENSE.
